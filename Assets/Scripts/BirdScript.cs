@@ -32,7 +32,7 @@ public class BirdScript : MonoBehaviour
             else
             {
                 logic.pauseScreen();
-                isGamePaused =true;
+                isGamePaused = true;
             }
             
 
